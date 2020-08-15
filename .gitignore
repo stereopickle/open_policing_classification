@@ -1,2 +1,4 @@
 
 .ipynb_checkpoints/001.Data_Collection-checkpoint.ipynb
+DATA/full_df.csv
+.DS_Store
