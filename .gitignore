@@ -3,3 +3,5 @@
 DATA/full_df.csv
 .DS_Store
 .ipynb_checkpoints/010.Data_Cleaning-checkpoint.ipynb
+.ipynb_checkpoints/020.EDA_Feature_Engineering-checkpoint.ipynb
+*.pkl
