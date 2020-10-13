@@ -1,0 +1,11 @@
+
+.ipynb_checkpoints/001.Data_Collection-checkpoint.ipynb
+DATA/full_df.csv
+.DS_Store
+.ipynb_checkpoints/010.Data_Cleaning-checkpoint.ipynb
+.ipynb_checkpoints/020.EDA_Feature_Engineering-checkpoint.ipynb
+*.pkl
+*.icloud
+.ipynb_checkpoints/002.Data_Collection_Violations-checkpoint.ipynb
+.ipynb_checkpoints/030.Violation_Text_Clustering-checkpoint.ipynb
+preprocessed_text.txt
