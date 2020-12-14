@@ -9,3 +9,4 @@ DATA/full_df.csv
 .ipynb_checkpoints/002.Data_Collection_Violations-checkpoint.ipynb
 .ipynb_checkpoints/030.Violation_Text_Clustering-checkpoint.ipynb
 preprocessed_text.txt
+PKL/doc_avg
